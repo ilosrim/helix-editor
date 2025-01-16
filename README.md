@@ -6,3 +6,4 @@
 - `Ctrl-r` - Format file
 - `Ctrl-w` - Close  file
 - `Ctrl-z` - Exit helix
+- `Space-f` - Search file
