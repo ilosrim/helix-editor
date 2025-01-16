@@ -42,9 +42,6 @@ C-w = ":buffer-close"
 C-a = ":reload-all"
 C-v = [":clipboard-paste-before"]
 C-r = ":fmt"
-# C-f = [":new", ":insert-output lf-pick", ":theme default", "select_all", "split_selection_on_newline", "goto_file", "goto_last_modified_file", ":buffer_close!", ":theme tokyonight"]
-# A-f = [":new", ":insert-output lf-pick", ":theme default", "select_all", "split_selection_on_newline", "goto_file", "goto_last_modified_file", ":buffer-close!", ":theme tokyonight_storm"]
-# C-f = [":new", ":insert-output lf-pick", "split_selection_on_newline", "goto_file", "goto_last_modification", "goto_last_modified_file", ":buffer-close!", ":theme tokyonight"]
 
 [keys.insert]
 C-s = [":w!", "normal_mode"]
